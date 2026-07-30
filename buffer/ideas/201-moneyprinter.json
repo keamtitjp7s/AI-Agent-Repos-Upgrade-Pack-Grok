@@ -1,0 +1,10 @@
+{
+  "id": "201",
+  "title": "shortforge-core",
+  "source_repo": "harry0703/MoneyPrinterTurbo",
+  "description": "Pipeline generowania krótkich filmów HD z keywordu (LLM script → stock → TTS → napisy → render)",
+  "upgrade": ["W pełni lokalny (Ollama + lokalne TTS + własne materiały)", "Brand-kit", "Multi-platform publishing", "Quality scoring + auto-regeneracja", "Fundament: workflow engine + script→asset→render"],
+  "new_name": "shortforge-core",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:34:00Z"
+}

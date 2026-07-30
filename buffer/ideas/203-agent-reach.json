@@ -1,0 +1,10 @@
+{
+  "id": "203",
+  "title": "reach-core",
+  "source_repo": "Panniantong/Agent-Reach",
+  "description": "CLI multi-platform data access (X, Reddit, YT, GitHub...) bez opłat API",
+  "upgrade": ["Unified search + transcript + sentiment + entities", "Structured JSON + citation graph", "Rate-limit evasion + cache + MCP", "Time-window + source weighting", "Fundament: multi-platform scraper + CLI"],
+  "new_name": "reach-core",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:34:00Z"
+}

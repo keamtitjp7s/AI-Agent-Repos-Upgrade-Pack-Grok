@@ -1,0 +1,10 @@
+{
+  "id": "202",
+  "title": "web-agent-harness",
+  "source_repo": "browser-use/browser-use",
+  "description": "Python Playwright+LLM – agent korzysta z przeglądarki jak człowiek",
+  "upgrade": ["Self-healing", "Persistent sessions + multi-tab + visual grounding", "CAPTCHA/proxy + stealth", "MCP server + integracja Claude/Cursor/Codex", "Fundament: agent-browser loop + DOM→structured text"],
+  "new_name": "web-agent-harness",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:34:00Z"
+}

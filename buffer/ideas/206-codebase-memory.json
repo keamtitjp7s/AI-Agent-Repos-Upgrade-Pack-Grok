@@ -1,0 +1,10 @@
+{
+  "id": "206",
+  "title": "codegraph-mcp",
+  "source_repo": "DeusData/codebase-memory-mcp",
+  "description": "MCP server indeksujący codebase do knowledge graphu (158 języków, sub-ms)",
+  "upgrade": ["Incremental updates + multi-repo", "Visual graph UI + security filtering", "Query language + hybrid embedding search", "Fundament: AST→graph indexer + MCP tools + persistent store"],
+  "new_name": "codegraph-mcp",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:34:00Z"
+}

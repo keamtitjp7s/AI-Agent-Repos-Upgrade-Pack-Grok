@@ -1,0 +1,15 @@
+{
+  "id": "106",
+  "title": "kronos-edge",
+  "source_repo": "shiyu-coder/Kronos",
+  "description": "Foundation model for financial K-lines (candlesticks)",
+  "upgrade": [
+    "Live-data adapter (Binance/CCXT)",
+    "Backtest harness + web dashboard",
+    "Fine-tune pipeline + paper-trading mode",
+    "Fundament: tokenizer + predictor"
+  ],
+  "new_name": "kronos-edge",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

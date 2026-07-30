@@ -1,0 +1,15 @@
+{
+  "id": "103",
+  "title": "ecc-core-private",
+  "source_repo": "affaan-m/ECC",
+  "description": "Agent harness performance optimization (skills, instincts, memory, security)",
+  "upgrade": [
+    "Pure-core bez vendor lock-in",
+    "Multi-model router + local LLM fallback",
+    "Automatic prompt-hardening + security audit layer",
+    "Fundament: harness + memory + security hooks"
+  ],
+  "new_name": "ecc-core-private",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

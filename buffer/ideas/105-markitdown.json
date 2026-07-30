@@ -1,0 +1,14 @@
+{
+  "id": "105",
+  "title": "md-forge",
+  "source_repo": "microsoft/markitdown",
+  "description": "PDF/Word/PPT/Excel/images/audio → clean Markdown (LLM-friendly)",
+  "upgrade": [
+    "Rust rewrite + MCP server + Tauri desktop GUI",
+    "Batch + streaming + local OCR/transcription",
+    "Fundament: converter registry + structure-preserving pipeline"
+  ],
+  "new_name": "md-forge",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

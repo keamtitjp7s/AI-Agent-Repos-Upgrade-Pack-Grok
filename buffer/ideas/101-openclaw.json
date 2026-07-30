@@ -1,0 +1,15 @@
+{
+  "id": "101",
+  "title": "claw-private-core",
+  "source_repo": "openclaw/openclaw",
+  "description": "Lokalny cross-platform personal AI assistant (TypeScript). Privacy-first.",
+  "upgrade": [
+    "Native mobile companion (Flutter/React Native)",
+    "Offline-first vector memory (LanceDB)",
+    "MCP + skill-system z superpowers/ECC",
+    "Fundament: core agent loop + tool-calling"
+  ],
+  "new_name": "claw-private-core",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

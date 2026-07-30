@@ -1,0 +1,15 @@
+{
+  "id": "104",
+  "title": "hermes-lite-core",
+  "source_repo": "NousResearch/hermes-agent",
+  "description": "Modularny AI agent (Python) – the agent that grows with you",
+  "upgrade": [
+    "Minimalny core + pluggable skills",
+    "Long-term memory (Mem0-style)",
+    "Self-improvement loop",
+    "Fundament: agent loop + tool registry"
+  ],
+  "new_name": "hermes-lite-core",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

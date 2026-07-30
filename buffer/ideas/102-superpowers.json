@@ -1,0 +1,15 @@
+{
+  "id": "102",
+  "title": "skillforge-engine",
+  "source_repo": "obra/superpowers",
+  "description": "Agentic skills framework + SDLC methodology",
+  "upgrade": [
+    "TypeScript/Python hybrid z auto-discovery skilli",
+    "Persistent memory graph",
+    "Sandbox execution + cost-tracking",
+    "Fundament: skill-loader + subagent orchestration"
+  ],
+  "new_name": "skillforge-engine",
+  "status": "buffered",
+  "collectedAt": "2026-07-31T00:27:00Z"
+}

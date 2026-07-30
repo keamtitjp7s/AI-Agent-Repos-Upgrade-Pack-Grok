@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-repos-upgrade-pack-grok",
+  "version": "1.0.0",
+  "description": "AI Agent Repos Upgrade Pack - Grok",
+  "scripts": {
+    "collect": "node collectors/github-ideas.js",
+    "buffer": "node buffer/add-idea.js",
+    "import": "node importers/import-repo.js",
+    "finalize": "node generators/finalize.js"
+  },
+  "keywords": ["ai", "agent", "github", "grok", "upgrade-pack"],
+  "license": "MIT"
+}

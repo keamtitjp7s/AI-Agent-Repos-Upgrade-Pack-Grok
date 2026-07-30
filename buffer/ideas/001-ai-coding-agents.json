@@ -1,0 +1,13 @@
+{
+  "id": "001",
+  "title": "AI coding agents enhancement / harness integrations",
+  "body": "Enhancement requests around AI coding agents, harness integrations (pi, hermes), agentic harness generation workflow, IPC support for coding agents.",
+  "source": "GitHub search: is:open label:enhancement AI agent OR coding agent OR harness",
+  "sources": [
+    "https://github.com/Bidthedog/throng/issues/17",
+    "https://github.com/HeddleCo/heddle/issues/540",
+    "https://github.com/griddynamics/rosetta/issues/147"
+  ],
+  "collectedAt": "2026-07-31T00:30:00Z",
+  "status": "buffered"
+}

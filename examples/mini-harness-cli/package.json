@@ -1,0 +1,14 @@
+{
+  "name": "mini-harness-cli",
+  "version": "1.0.0",
+  "description": "Minimal AI agent harness CLI – finalized from buffer idea 002",
+  "main": "index.js",
+  "bin": {
+    "mini-harness": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["ai", "agent", "harness", "cli", "grok"],
+  "license": "MIT"
+}
